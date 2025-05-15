@@ -4,7 +4,7 @@
 
 ---
 
-\## 📋 Table of Contentss
+\## 📋 Table of Contents
 
 1. [Project Overview](#project-overview)
 2. [Dataset](#dataset)
